@@ -1,0 +1,15 @@
+1. Lệnh trả về đúng nếu 90 <= grade <= 180.
+Sửa cú pháp thành bool isA = (90 <= grade && grade <= 100);
+2. 0
+3. Tràn số
+4. 0
+5. Compiler đưa ra cảnh báo
+6. - Lỗi một số với xâu
+   - Cảnh báo chưa khởi tạo x
+   - Nếu chuyển khai báo ra ngoài, x = 0
+7. 0, 0.75, 0.75, 0.75
+8. Báo lỗi biến đã được định nghĩa trước
+9. arg1 = 'A'
+10. arg1 = -1
+11. (5 / 9) = 0 -> Lỗi chia cho 0
+12. Here
